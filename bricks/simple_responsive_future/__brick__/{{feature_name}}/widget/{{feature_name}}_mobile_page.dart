@@ -1,4 +1,3 @@
-// __brick__/{{feature_name}}/widget/{{feature_name}}_mobile_page.dart
 part of '../{{feature_name}}.dart';
 
 class {{feature_name | pascalCase}}MobilePage extends StatelessWidget {

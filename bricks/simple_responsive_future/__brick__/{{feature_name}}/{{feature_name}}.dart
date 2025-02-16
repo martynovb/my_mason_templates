@@ -1,4 +1,3 @@
-// __brick__/{{feature_name}}/{{feature_name}}.dart
 import 'package:flutter/material.dart';
 import '../../shared/widgets/device_layout_builder.dart';
 

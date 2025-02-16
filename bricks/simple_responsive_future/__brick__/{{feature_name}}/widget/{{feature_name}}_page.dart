@@ -1,4 +1,3 @@
-// __brick__/{{feature_name}}/widget/{{feature_name}}_page.dart
 part of '../{{feature_name}}.dart';
 
 class {{feature_name | pascalCase}}Page extends StatelessWidget {
