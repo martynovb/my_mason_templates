@@ -1,5 +1,5 @@
 name: simple_responsive_future
 description: A simple responsive future brick
-version: 0.2.0
+version: 0.3.0
 vars:
   - feature_name
